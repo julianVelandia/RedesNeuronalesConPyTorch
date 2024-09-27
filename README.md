@@ -6,5 +6,5 @@ Este repositorio contiene una serie de módulos que abarcan la implementación d
 - **Conceptos Básicos**: Uso de librerías como Numpy y Pandas.
 - **Redes Multicapa**:  Arquitectura de redes neuronales, descenso del gradiente y técnicas para evitar overfitting. Construcción y entrenamiento de redes multicapa aplicadas a conjuntos de datos de regresión.
 - **Redes Convolucionales**: Implementación de CNNs para la clasificación de imágenes.
-- **Redes Recurrentes**: Creación de RNNs para secuencias de datos, incluyendo LSTMs.
+- **Redes Recurrentes**: Creación de RNNs para secuencias de datos.
 
